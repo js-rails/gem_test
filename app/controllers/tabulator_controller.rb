@@ -1,0 +1,2 @@
+class TabulatorController < ApplicationController
+end
