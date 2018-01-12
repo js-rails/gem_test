@@ -1,3 +1,8 @@
+PATH
+  remote: ../currencyFormatter-rails
+  specs:
+    currencyFormatter-rails (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -174,6 +179,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   capybara (~> 2.13)
+  currencyFormatter-rails!
   jbuilder (~> 2.5)
   jquery-rails (~> 4.3, >= 4.3.1)
   jquery-ui-rails (~> 6.0, >= 6.0.1)
