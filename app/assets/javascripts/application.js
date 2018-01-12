@@ -14,5 +14,6 @@
 //= require jquery-ui
 //= require tabulator
 //= require currencyFormatter
+//= require jspdf
 //= require rails-ujs
 //= require_tree .

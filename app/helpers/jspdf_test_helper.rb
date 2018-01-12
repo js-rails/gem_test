@@ -1,0 +1,2 @@
+module JspdfTestHelper
+end

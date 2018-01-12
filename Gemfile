@@ -24,6 +24,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 gem 'tabulator-rails', '~> 0.1.1'
 gem 'currencyFormatter-rails'
+gem 'jspdf-rails', path: '../jspdf-rails'
 
 gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
