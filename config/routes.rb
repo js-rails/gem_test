@@ -3,4 +3,5 @@ Rails.application.routes.draw do
   resources :tabulator, only: [:index]
   resources :currency, only: [:index]
   resources :jspdf_test, only: [:index]
+  resources :lory, only: [:index]
 end

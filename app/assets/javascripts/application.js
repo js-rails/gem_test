@@ -15,5 +15,6 @@
 //= require tabulator
 //= require currencyFormatter
 //= require jspdf
+//= require lory.min.js
 //= require rails-ujs
 //= require_tree .
