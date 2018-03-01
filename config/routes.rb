@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   resources :currency, only: [:index]
   resources :jspdf_test, only: [:index]
   resources :lory, only: [:index]
+  resources :drop_down, only: [:index]
 end
